@@ -1,9 +1,9 @@
 import React from 'react'
 
-const page = () => {
+function page() {
   return (
     <h1 className='flex items-center justify-center h-[100vh] font-bold text-4xl'>
-      Welcome to our Travel Guide Website
+      Contact Us
     </h1>
   )
 }
